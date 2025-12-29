@@ -52,7 +52,7 @@ Monthly spend amount, Spending category, Payment type, Transaction month
 
 ## 🧩 Data Model
 
-
+![image](https://github.com/Debdatta7/Credit-card-strategy-customer-spending---Banking-domain/blob/main/1.JPG)
 
 ## 📈 Dashboards & Analysis
 🔹 Demography Dashboard
