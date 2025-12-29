@@ -70,6 +70,7 @@ Insights:
 Average income vs. total spends | Income Utilization % by customer segment | Credit appetite across demographics
 
 ### 🔹 Spend Analysis Dashboard
+![image](https://github.com/Debdatta7/Credit-card-strategy-customer-spending---Banking-domain/blob/main/6.JPG)
 
 Insights:
 
