@@ -63,6 +63,7 @@ Insights:
 Spending behavior by age group and gender | City-wise customer distribution | Identification of high-income demographic segments
 
 ### 🔹 Income Analysis Dashboard
+![image](https://github.com/Debdatta7/Credit-card-strategy-customer-spending---Banking-domain/blob/main/4.JPG)
 
 Insights:
 
