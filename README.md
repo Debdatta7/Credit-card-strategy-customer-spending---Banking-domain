@@ -55,19 +55,20 @@ Monthly spend amount, Spending category, Payment type, Transaction month
 ![image](https://github.com/Debdatta7/Credit-card-strategy-customer-spending---Banking-domain/blob/main/1.JPG)
 
 ## 📈 Dashboards & Analysis
-🔹 Demography Dashboard
+### 🔹 Demography Dashboard
+![image](https://github.com/Debdatta7/Credit-card-strategy-customer-spending---Banking-domain/blob/main/2.JPG)
 
 Insights:
 
 Spending behavior by age group and gender | City-wise customer distribution | Identification of high-income demographic segments
 
-🔹 Income Analysis Dashboard
+### 🔹 Income Analysis Dashboard
 
 Insights:
 
 Average income vs. total spends | Income Utilization % by customer segment | Credit appetite across demographics
 
-🔹 Spend Analysis Dashboard
+### 🔹 Spend Analysis Dashboard
 
 Insights:
 
